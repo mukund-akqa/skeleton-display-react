@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skeleton-display-react/static/css/main.b360ce2c.css",
+    "main.js": "/skeleton-display-react/static/js/main.4ad9027c.js",
+    "index.html": "/skeleton-display-react/index.html",
+    "main.b360ce2c.css.map": "/skeleton-display-react/static/css/main.b360ce2c.css.map",
+    "main.4ad9027c.js.map": "/skeleton-display-react/static/js/main.4ad9027c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b360ce2c.css",
+    "static/js/main.4ad9027c.js"
+  ]
+}
